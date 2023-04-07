@@ -34,7 +34,7 @@ with c3:
     with st.expander("Padmasana"):
         st.markdown('''
     <a href="https://docs.streamlit.io">
-        <img src="hhttps://raw.githubusercontent.com/lorem-ipsum20/Images/main/Padmasana.png" />
+        <img src="https://raw.githubusercontent.com/lorem-ipsum20/Images/main/Padmasana.png" />
     </a>''',
     unsafe_allow_html=True)
         
