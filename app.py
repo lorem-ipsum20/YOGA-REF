@@ -24,7 +24,7 @@ with c2:
     with st.expander("Bhujangasana"):
         st.markdown('''
     <a href="https://docs.streamlit.io">
-        <img src="https://raw.githubusercontent.com/lorem-ipsum20/Images/main/Baddha%20Konasana.png" />
+        <img src="https://raw.githubusercontent.com/lorem-ipsum20/Images/main/Bhujangasana.png" />
     </a>''',
     unsafe_allow_html=True)
     
