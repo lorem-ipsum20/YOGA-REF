@@ -7,7 +7,7 @@ c1 , c2 , c3= st.columns(3)
 d1 , d2 , d3= st.columns(3)
 e1, e2, e3 = st.columns(3)
 
-
+https://raw.githubusercontent.com/lorem-ipsum20/Images/main/Baddha%20Konasana.png
 # Row-1
 with c1:
     st.subheader("Dhanurasana")
@@ -15,7 +15,7 @@ with c1:
         #st.image("./Images/Dhanurasana.png")
         st.markdown('''
     <a href="https://docs.streamlit.io">
-        <img src="https://raw.githubusercontent.com/aman-singanamala/Streamlit-Apps/main/Yoga-Poses-App/Images/Dhanurasana.png" />
+        <img src="https://raw.githubusercontent.com/lorem-ipsum20/Images/main/Dhanurasana.png" />
     </a>''',
     unsafe_allow_html=True)
         
@@ -24,7 +24,7 @@ with c2:
     with st.expander("Bhujangasana"):
         st.markdown('''
     <a href="https://docs.streamlit.io">
-        <img src="https://raw.githubusercontent.com/aman-singanamala/Streamlit-Apps/main/Yoga-Poses-App/Images/Baddha%20Konasana.png" />
+        <img src="https://raw.githubusercontent.com/lorem-ipsum20/Images/main/Baddha%20Konasana.png" />
     </a>''',
     unsafe_allow_html=True)
     
@@ -34,7 +34,7 @@ with c3:
     with st.expander("Padmasana"):
         st.markdown('''
     <a href="https://docs.streamlit.io">
-        <img src="https://raw.githubusercontent.com/aman-singanamala/Streamlit-Apps/main/Yoga-Poses-App/Images/Padmasana.png" />
+        <img src="hhttps://raw.githubusercontent.com/lorem-ipsum20/Images/main/Padmasana.png" />
     </a>''',
     unsafe_allow_html=True)
         
@@ -45,7 +45,7 @@ with d1:
     with st.expander("Utthita Parsvakonasana"):
         st.markdown('''
     <a href="https://docs.streamlit.io">
-        <img src="https://raw.githubusercontent.com/aman-singanamala/Streamlit-Apps/main/Yoga-Poses-App/Images/Utthita%20Parsvakonasana.png" />
+        <img src="https://raw.githubusercontent.com/lorem-ipsum20/Images/main/Utthita%20Parsvakonasana.png" />
     </a>''',
     unsafe_allow_html=True)
         
@@ -64,7 +64,7 @@ with d3:
     with st.expander("Siddhasana"):
         st.markdown('''
     <a href="https://docs.streamlit.io">
-        <img src="https://raw.githubusercontent.com/aman-singanamala/Streamlit-Apps/main/Yoga-Poses-App/Images/Siddhasana.png" />
+        <img src="https://raw.githubusercontent.com/lorem-ipsum20/Images/main/Siddhasana.png" />
     </a>''',
     unsafe_allow_html=True)
         
@@ -75,7 +75,7 @@ with e1:
     with st.expander("Vrikshasana (Tree Pose)"):
         st.markdown('''
     <a href="https://docs.streamlit.io">
-        <img src="https://raw.githubusercontent.com/aman-singanamala/Streamlit-Apps/main/Yoga-Poses-App/Images/Vrikshasana.png" />
+        <img src="https://raw.githubusercontent.com/lorem-ipsum20/Images/main/Vrikshasana.png" />
     </a>''',
     unsafe_allow_html=True)
         
@@ -84,7 +84,7 @@ with e2:
     with st.expander("Baddha Konasana"):
         st.markdown('''
     <a href="https://docs.streamlit.io">
-        <img src="https://raw.githubusercontent.com/aman-singanamala/Streamlit-Apps/main/Yoga-Poses-App/Images/Baddha%20Konasana.png" />
+        <img src="https://raw.githubusercontent.com/lorem-ipsum20/Images/main/Baddha%20Konasana.png" />
     </a>''',
     unsafe_allow_html=True)
         
@@ -93,7 +93,7 @@ with e3:
     with st.expander("Utkatasana"):
         st.markdown('''
     <a href="https://docs.streamlit.io">
-        <img src="https://raw.githubusercontent.com/aman-singanamala/Streamlit-Apps/main/Yoga-Poses-App/Images/Utkatasana.png" />
+        <img src="https://raw.githubusercontent.com/lorem-ipsum20/Images/main/Utkatasana.png" />
     </a>''',
     unsafe_allow_html=True)
        
