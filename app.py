@@ -7,7 +7,7 @@ c1 , c2 , c3= st.columns(3)
 d1 , d2 , d3= st.columns(3)
 e1, e2, e3 = st.columns(3)
 
-https://raw.githubusercontent.com/lorem-ipsum20/Images/main/Baddha%20Konasana.png
+
 # Row-1
 with c1:
     st.subheader("Dhanurasana")
